@@ -13,3 +13,4 @@ yarn-error.log
 gas-report.txt
 coverage.json
 coverage
+.DS_store
