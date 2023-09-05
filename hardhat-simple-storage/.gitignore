@@ -10,3 +10,6 @@ cache
 artifacts
 
 yarn-error.log
+gas-report.txt
+coverage.json
+coverage
